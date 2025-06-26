@@ -1,4 +1,4 @@
-# qr-code
+# Project-1---QR-code
 
 Welcome to my first project on Frond-End Mentor.
 
